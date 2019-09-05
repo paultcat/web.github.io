@@ -1,0 +1,9 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Ejemplo de Sitio Web"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Acerca De"
+      href: about.html
